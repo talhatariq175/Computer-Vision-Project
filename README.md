@@ -9,7 +9,7 @@ Each exercise explores key concepts like 3D data processing, image segmentation,
 
 | Exercise | Topic                     | Description |
 |----------|---------------------------|-------------|
-| [Exercise 01](./exercise-01-box-detection) | Box Detection with ToF Data | Estimate a box’s dimensions using RANSAC, 3D point clouds, and image processing |
+| [Exercise 01](./exercise-01-box-detection) | Box Detection with Using RANSAC and Image Processing | Estimate a box’s dimensions using RANSAC, 3D point clouds, and image processing |
 
 > More exercises will be added as the course progresses.
 
