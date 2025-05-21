@@ -28,6 +28,7 @@ Each exercise explores key concepts like 3D data processing, image segmentation,
 
 ## 🗂️ Repository Structure
 
+```text
 computer-vision-project/
 ├── exercise-01-box-detection/
 │   ├── Exercise_1_Box_Detection.ipynb
