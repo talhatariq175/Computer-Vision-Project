@@ -33,7 +33,7 @@ computer-vision-project/
 ├── exercise-01-box-detection/
 │   ├── Exercise_1_Box_Detection.ipynb
 │   ├── Report_Exercise_1_Box_Detection.pdf
-│   ├── Presentation_Exercise1_Box_Detection.pptx
+│   ├── Presentation_Exercise1_Box_Detection.pdf
 │   └── README.md
 ├── .gitignore
 └── README.md  ← you are here
