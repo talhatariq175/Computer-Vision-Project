@@ -10,7 +10,7 @@ Each exercise explores key concepts like 3D data processing, image segmentation,
 | Exercise | Topic                     | Description |
 |----------|---------------------------|-------------|
 | [Exercise 01](./exercise-01-box-detection) | Box Detection with Using RANSAC and Image Processing | Estimate a box’s dimensions using RANSAC, 3D point clouds, and image processing |
-| [Exercise 02](./exercise-02-writer-retrieval) | Box Detection with Using RANSAC and Image Processing | Estimate a box’s dimensions using RANSAC, 3D point clouds, and image processing |
+| [Exercise 02](./exercise-02-writer-retrieval) | Writer Retreival using SIFT features | Built an image retrieval system to identify document authors based on handwriting. Implemented the Bag of Visual Words (BoVW) model using VLAD encoding, k-means clustering, and Exemplar-SVMs. |
 
 > More exercises will be added as the course progresses.
 
