@@ -20,10 +20,16 @@ Each exercise explores key concepts like 3D data processing, image segmentation,
 
 - Python 3
 - NumPy, SciPy, Matplotlib
-- Jupyter Notebook
-- RANSAC (custom implementation)
-- Morphological operations
-- 3D point cloud analysis
+- OpenCV: (cv2.BFMatcher, cv2.matchTemplate)
+- Scikit-learn: (e.g., MiniBatchKMeans, LinearSVC, sklearn.svm)
+- Key Concepts:
+  - 3D Data: 3D Point Cloud Analysis, RANSAC (custom implementation)
+  - Features & ML: Bag of Visual Words (BoVW), VLAD Encoding, k-Means Clustering, k-NN Classification, SVMs
+  - Deep Learning: CNNs, FaceNet Embeddings, MTCNN
+  - Image Processing: Demosaicing, HDR Merging, White Balance, Morphological Operations, Template Matching
+  - Object Detection: Selective Search, Region Merging
+
+
 
 ---
 
