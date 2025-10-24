@@ -36,5 +36,10 @@ computer-vision-project/
 │   ├── Report_Exercise_1_Box_Detection.pdf
 │   ├── Presentation_Exercise1_Box_Detection.pdf
 │   └── README.md
+├── exercise-02-writer-retrieval/
+│   ├── Exercise_2_Writer_Identification.py
+│   ├── Exercise_2_bonus.py
+│   ├── Presentation_Exercise_2.pptx
+│   └── README.md
 ├── .gitignore
 └── README.md  ← you are here
