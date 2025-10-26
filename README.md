@@ -1,11 +1,11 @@
-# 🎓 Computer Vision Project – MSc Coursework
+#  Computer Vision Project – MSc Coursework
 
 This repository contains practical exercises from my Master's degree coursework in Computer Vision at FAU Erlangen-Nürnberg.  
 Each exercise explores key concepts like 3D data processing, image segmentation, and geometric analysis using Python.
 
 ---
 
-## 📘 Contents
+## Contents
 
 | Exercise | Topic                     | Description |
 |----------|---------------------------|-------------|
@@ -16,7 +16,7 @@ Each exercise explores key concepts like 3D data processing, image segmentation,
 
 ---
 
-## 🧠 Tools & Libraries Used
+## Tools & Libraries Used
 
 - Python 3
 - NumPy, SciPy, Matplotlib
@@ -33,7 +33,7 @@ Each exercise explores key concepts like 3D data processing, image segmentation,
 
 ---
 
-## 🗂️ Repository Structure
+## Repository Structure
 
 ```text
 computer-vision-project/
