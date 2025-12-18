@@ -1,7 +1,6 @@
 #  Computer Vision Project – MSc Coursework
 
-This repository contains practical exercises from my Master's degree coursework in Computer Vision at FAU Erlangen-Nürnberg.  
-Each exercise explores key concepts like 3D data processing, image segmentation, and geometric analysis using Python.
+This repository contains practical exercises from my Master's degree coursework in Computer Vision at FAU Erlangen-Nürnberg. Each exercise explores key concepts in 3D data processing, image segmentation, feature extraction, and deep learning using Python.
 
 ---
 
@@ -15,8 +14,6 @@ Each exercise explores key concepts like 3D data processing, image segmentation,
 | [Exercise 04](./exercise-04-demosaicing-hdr) | Demosaicing & High Dynamic Range (HDR) | Developed a full pipeline for processing raw sensor data. Implemented demosaicing from Bayer patterns, white balancing (Gray World), and merging multiple exposures to create an HDR image |
 | [Exercise 05](./exercise-05-face-recognition) | Face Recognition System | Built a complete face recognition and re-identification system. Used MTCNN for detection, FaceNet for deep feature extraction (embeddings), and k-NN / k-Means for identification and clustering |
 
-
-> More exercises will be added as the course progresses.
 
 ---
 
